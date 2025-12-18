@@ -26,8 +26,7 @@ Screenshots of the application are available in the `screenshots` folder.
 
 
 ## Live Demo
-The application is deployed on Render.  
-Live demo link will be updated here.
+Backend Live URL: https://insighthire-backend.onrender.com
 
 ## Author
 Ameen Hussain
