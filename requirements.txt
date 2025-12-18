@@ -2,4 +2,4 @@ flask
 spacy
 PyPDF2
 flask-cors
-
+gunicorn
